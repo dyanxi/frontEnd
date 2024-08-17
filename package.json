@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "从0到1使用Webpack5 + React + TS构建标准化应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyanxi/frontEnd.git"
+  },
+  "keywords": [
+    "基础"
+  ],
+  "author": "daizhuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyanxi/frontEnd/issues"
+  },
+  "homepage": "https://github.com/dyanxi/frontEnd#readme"
+}
